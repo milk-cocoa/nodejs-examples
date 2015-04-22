@@ -1,0 +1,9 @@
+logs {
+    permit : on(push),get;
+    rule : true;
+}
+
+logs {
+    permit : push;
+    rule : account.sub == "auth0|55373b76960ddf0a3dbcdabf";
+}
