@@ -1,0 +1,27 @@
+{
+  "name": "cocoaboxdev",
+  "version": "0.0.1",
+  "description": "cocoabox client for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:milk-cocoa/nodejs-examples.git"
+  },
+  "dependencies": {
+  	"milkcocoa" : "*"
+  },
+  "devDependencies" : {
+  },
+  "keywords": [
+    "milkcocoa",
+    "realtime"
+  ],
+  "author": "Technicak Rockstars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milk-cocoa/milkcocoa/issues"
+  }
+}
